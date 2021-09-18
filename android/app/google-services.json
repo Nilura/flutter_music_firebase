@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "524712994043",
+    "project_id": "music-c3740",
+    "storage_bucket": "music-c3740.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524712994043:android:d600975fc09bea122b3c5e",
+        "android_client_info": {
+          "package_name": "com.example.music_player_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524712994043-ggjumpks9rokpm797l516qjvukkti93j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtse_D-HkNTRbNfERMDORF1JrQmuniDoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524712994043-ggjumpks9rokpm797l516qjvukkti93j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
